@@ -34,7 +34,7 @@ SETTINGS_FRIENDS_LINKS: {
     json_api: "",
     list: [
         # 示例1：
-        ["贰猹の小窝", "https://noionion.top/", "https://pub-noionion.oss-cn-hangzhou.aliyuncs.com/head.jpg"],
+        ["asdsd", "https://www.biuling.top/", "https://jsd.cdn.zzko.cn/gh/CheckingChen/image-hosting@master/avatar.6awsc8i38s80.webp"],
         ["Akilarの糖果屋", "https://akilar.top/", "https://akilar.top/images/headimage.png"],
         # 示例2：使用suffix的配置如下
         # 程序目前自动获取 "atom.xml", "feed/atom", "rss.xml", "rss2.xml", "feed", "index.xml" 这些后缀
